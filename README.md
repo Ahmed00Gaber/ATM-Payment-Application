@@ -1,4 +1,6 @@
 # ATM-Payment-Application
+Developing a payment application project using C language can be an interesting challenge. The project can include the following features:
+## summary:  
     User account creation: The application will allow users to create accounts by providing their personal information such as name, email, and phone number. The user's account will also include their bank account or credit/debit card information.
 
     Payment processing: The application will enable users to initiate payments to other users or merchants. The payment processing feature will utilize secure protocols to ensure that transactions are conducted safely.
